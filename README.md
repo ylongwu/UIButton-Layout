@@ -1,14 +1,14 @@
-UIButton-Layout
+##UIButton-Layout
 
 An UIButton category for aligning imageView and titleLabel
 
 UIButton图片文字的上下布局，可以调整图片的大小和位置，图片和文字的大小不能超过系统给imageView和titleLabel设置的最大值
 
-Demo
+##Demo
 
 ![Demo picture](https://github.com/ylongwu/UIButton-Layout/blob/master/1016066736-2.gif)
 
-Example
+##Example
 
 ```
   UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
