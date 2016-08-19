@@ -22,4 +22,4 @@ typedef NS_ENUM(NSInteger, ImageViewPositionType){
 -(void)setButtonImageViewPositionType:(ImageViewPositionType)type imageLabeSpace:(CGFloat)space;
 -(void)setButtonImageViewSize:(CGSize)size;
 
-@endgitt
+@end
