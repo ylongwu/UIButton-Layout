@@ -2,7 +2,7 @@
 
 An UIButton category for aligning imageView and titleLabel
 
-UIButton图片文字的上下布局，可以调整图片的大小和位置，图片和文字的大小不能超过系统给imageView和titleLabel设置的最大值
+UIButton图片文字的上下布局，可以调整图片的大小和位置，图片和文字的大小不能超过imageView和titleLabel默认的最大值
 
 ##Demo
 
